@@ -1,5 +1,5 @@
 # We're Using NaytSeyd's Special Docker
-FROM BHAGWANUSERBOT/CBA-USERBOT
+FROM naytseyd/sedenbot:j1xlte
 
 # Working Directory
 WORKDIR /BHAGWANUSERBOT/

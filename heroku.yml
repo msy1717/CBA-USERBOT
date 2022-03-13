@@ -1,0 +1,5 @@
+build: 
+  docker: 
+      cba: Dockerfile
+run:
+   cba: python3 cba.py

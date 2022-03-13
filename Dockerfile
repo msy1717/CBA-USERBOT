@@ -5,7 +5,7 @@ FROM naytseyd/sedenbot:j1xlte
 WORKDIR /BHAGWANUSERBOT/
 
 # Clone Repo
-RUN git clone -b cbauserbot https://github.com/BHAGWANUSERBOT/CBA-USERBOT.git /BHAGWANUSERBOT/
+RUN git clone -b cbauserbot https://github.com/BHAGWANUSERBOT/CBA-USERBOT.git /DerUntergang/
 
 # Run bot
 CMD ["python3", "cba.py"]
